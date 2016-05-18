@@ -1,0 +1,17 @@
+{
+  "name": "commentnet",
+  "version": "1.0.0",
+  "description": "Networked commenting system",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "ui-bootstrap": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Piterman",
+  "license": "ISC"
+}
