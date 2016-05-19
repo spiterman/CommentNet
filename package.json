@@ -4,6 +4,7 @@
   "description": "Networked commenting system",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.15.1",
     "bootstrap": "^3.3.6",
     "jquery": "^2.2.3",
     "ui-bootstrap": "^0.1.0"
