@@ -4,7 +4,7 @@ const express = require('express');
 // const bodyParser = require('body-parser');
 
 const app = express();
-const port = 3000; //Add env port later
+const port = process.env.PORT || 3000; //Add env port later
 
 // app.use(bodyParser.urlencoded)
 
