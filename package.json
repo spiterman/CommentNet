@@ -9,6 +9,7 @@
     "express": "^4.13.4",
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.1",
+    "node": "0.0.0",
     "rimraf": "^2.5.2",
     "run-sequence": "^1.2.0"
   },
@@ -17,6 +18,9 @@
     "postinstall": "bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "5.0.0"
+    },
   "author": "Sergey Piterman",
   "license": "ISC"
 }
