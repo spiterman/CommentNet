@@ -18,7 +18,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "nf start",
-    "postinstall": "bower install"
+    "postinstall": "bower install && gulp build"
   },
   "engines": {
     "node": "5.0.0"
